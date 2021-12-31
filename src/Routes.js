@@ -9,7 +9,7 @@ import NotFound from './Pages/NotFound/NotFound';
 const Routes = (props) => (
 	<Router {...props}>
 		<Switch>
-			<Route path="/register">
+			<Route path="/">
 				<Register />
 			</Route>
 
