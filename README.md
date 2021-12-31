@@ -24,7 +24,7 @@
 
 <p align="left">
 	<a href="">
-		<img src="https://drive.google.com/file/d/1RLEHPrA00ctAtfrBTOLo7ZnlcBg8v-tC/view?usp=drivesdk" width="100%" alt="piggment">
+		<img src="https://drive.google.com/file/d/1RLEHPrA00ctAtfrBTOLo7ZnlcBg8v-tC/view?usp=drivesdk" width="100%" alt="piggment"/>
 	</a>
 </p>
 
@@ -32,7 +32,7 @@
 
 <p align="left">
 	<a href="https://github.com/kingebere">
-		<img src="https://drive.google.com/file/d/1RLEHPrA00ctAtfrBTOLo7ZnlcBg8v-tC/view?usp=drivesdk" width="100%" alt="piggment">
+		<img src="https://drive.google.com/file/d/1RLEHPrA00ctAtfrBTOLo7ZnlcBg8v-tC/view?usp=drivesdk" width="100%" alt="piggment"/>
 	</a>
 </p>
 
@@ -52,6 +52,6 @@ You will also see any lint errors in the console.
 
 <br />
 
-> MIT © [codewonders.dev](https://github.com/kingebere) &nbsp;&middot;&nbsp; GitHub
+> MIT © [Kingebere](https://github.com/kingebere) &nbsp;&middot;&nbsp; GitHub
 > [@kingebere](https://github.com/kingebere) >
 > &nbsp;&middot;&nbsp;
