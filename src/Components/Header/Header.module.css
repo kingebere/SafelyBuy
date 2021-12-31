@@ -1,0 +1,21 @@
+.container {
+    height: 100vh;
+}
+
+.registrationFormContainer {
+    width: 24rem;
+}
+
+.headertext {
+    font-size: 24px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: rgb(165, 106, 243);
+}
+
+.smallheadertext {
+    font-size: 12px;
+    letter-spacing: -0.81px;
+    font-weight: bold;
+    color: rgb(165, 106, 243);
+}

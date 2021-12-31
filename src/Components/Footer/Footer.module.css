@@ -1,0 +1,55 @@
+.footerBackGround {
+    background-color: rgb(236, 232, 236);
+    padding: 45px;
+}
+
+.btnGreenTwo {
+    color: rgb(255, 255, 255);
+    background: rgb(28, 150, 28);
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 0.5375rem 1.975rem;
+    margin-bottom: 15px;
+}
+
+.maxW {
+    max-width: 24px;
+
+}
+
+.facebookBox {
+    height: 15px;
+    width: 15px;
+    padding: 9px;
+    margin-right: 8px;
+    border-radius: 50%;
+    background-color: rgb(239, 237, 252);
+}
+
+.instagramBox {
+    height: 15px;
+    padding: 9px;
+    margin-right: 8px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: rgb(253, 230, 246);
+}
+
+.twitterBox {
+    height: 15px;
+    width: 15px;
+    padding: 9px;
+    margin-right: 8px;
+    border-radius: 50%;
+    background-color: rgb(204, 253, 253);
+}
+
+.playStoreFooter {
+
+    max-height: 67px;
+}
+
+.appStoreFooter {
+    max-width: 173.13px;
+    max-height: 67px;
+}
