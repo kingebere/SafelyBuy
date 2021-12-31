@@ -12,11 +12,9 @@ const Register = () => {
 	const { register, handleSubmit, errors } = useForm();
 	const [message, setMessage] = useState();
 
-	{
-		/**
-		 *Logic for fetching the Endpoint for the POST Request
-		 */
-	}
+
+ // Logic for fetching endpoint
+								 
 	const onSubmit = (data, e) => {
 		setMessage({
 			data: 'Registration is in progress...',
